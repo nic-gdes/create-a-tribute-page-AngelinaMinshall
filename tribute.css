@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+}
+
+.photos {
+    display: flex;
+    height: 300px;
+    gap: 20px;
+    justify-content: center;
+}
