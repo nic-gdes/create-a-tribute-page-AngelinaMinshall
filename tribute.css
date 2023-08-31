@@ -7,4 +7,54 @@ body {
     height: 300px;
     gap: 20px;
     justify-content: center;
+    margin-top: 100px;
 }
+
+.imgportrait {
+    display: flex;
+    justify-content: right;
+    margin: 30px;
+
+}
+
+.aboutwain {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.aboutcontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: rgb(138, 196, 246);
+    height: 55px;
+    font-family: 'Bebas Neue';
+}
+.title {
+    background-color:  rgb(138, 196, 246);
+    height: 55px; 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 80px;
+}
+.title2 {
+    background-color:  rgb(138, 196, 246);
+    height: 40px; 
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 60px;
+}
+.about {
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+}
+
+.paragraph {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
