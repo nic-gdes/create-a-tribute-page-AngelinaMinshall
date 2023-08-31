@@ -16,6 +16,14 @@ body {
     margin: 30px;
 
 }
+a {
+    display: flex;
+    justify-content: end;
+    font-family: 'Bebas Neue';
+    color: black;
+    text-decoration: none;
+    margin-right: 100px;
+}
 
 .aboutwain {
     display: flex;
