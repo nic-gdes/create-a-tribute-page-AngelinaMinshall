@@ -31,7 +31,6 @@ a {
 
 .aboutwain {
     display: flex;
-    /* flex-direction: row-reverse; */
     align-items: center;
     flex-direction: column;
     padding-top: 5%;
